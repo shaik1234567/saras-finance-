@@ -12,6 +12,11 @@ This is a search tool UI built with Vue.js. It allows users to type a search que
 
 ## Project setup
 
+
+```
+npm install -g yarn
+```
+
 ```
 yarn install
 ```
